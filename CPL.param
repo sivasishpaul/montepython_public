@@ -1,8 +1,8 @@
 #------Experiments to test (separated with commas)-----
 
 #data.experiments=['Planck_highl_TTTEEE', 'Planck_lowl_EE', 'Planck_lowl_TT', 'bao_boss_dr12', 'bao_smallz_2014','Pantheon_Plus']   ### Planck+BAO+Pantheon_Plus
-#data.experiments=['Planck_highl_TTTEEE', 'Planck_lowl_EE', 'Planck_lowl_TT', 'bao_boss_dr12', 'bao_smallz_2014']
-data.experiments=['Planck_highl_TTTEEE', 'Planck_lowl_EE', 'Planck_lowl_TT']
+#data.experiments=['Planck_highl_TTTEEE', 'Planck_lowl_EE', 'Planck_lowl_TT', 'bao_boss_dr12', 'bao_smallz_2014'] ### Planck+BAO
+data.experiments=['Planck_highl_TTTEEE', 'Planck_lowl_EE', 'Planck_lowl_TT'] ### Planck
 
 #------ Settings for the over-sampling.
 # The first element will always be set to 1, for it is the sampling of the
